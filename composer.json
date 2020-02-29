@@ -1,0 +1,11 @@
+{
+    "name": "andrew/playground",
+    "description": "lorem ipsum",
+    "authors": [
+        {
+            "name": "Andrew Fisher",
+            "email": "and.fisher@hotmail.com"
+        }
+    ],
+    "require": {}
+}
